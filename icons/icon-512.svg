@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#1a1a2e"/>
+  <circle cx="256" cy="210" r="100" fill="url(#g1)"/>
+  <text x="256" y="240" text-anchor="middle" font-size="100" font-family="sans-serif" font-weight="bold" fill="#1a1a2e">LP</text>
+  <text x="256" y="380" text-anchor="middle" font-size="48" font-family="sans-serif" font-weight="bold" fill="#94a3b8">LinguaPlay</text>
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+</svg>
